@@ -1,0 +1,25 @@
+{
+  "id": "6895e166c9bd93e65ea8af24",
+  "title": "Imported Course",
+  "description": "No description available.",
+  "learningObjectives": [],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Doina Fitchevici",
+    "githubUsername": "DoinaFitchevici"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/node-express-course",
+  "remoteGithubUrl": "https://github.com/DoinaFitchevici/imported-course",
+  "createdAt": "2025-08-08T11:37:10.602Z",
+  "updatedAt": "2025-08-08T11:37:12.051Z",
+  "lessonCount": 32
+}
